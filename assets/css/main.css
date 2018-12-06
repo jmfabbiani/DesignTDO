@@ -12,7 +12,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 13px;
   line-height: 24px;
   overflow-x: hidden;
   /* fixing the overflow duting animation */
@@ -457,9 +457,9 @@ header {
 }
 .search-area .search-field {
   border: none;
-  padding: 7px 5px;
+  padding: 2px 2px;
   color: #777;
-  width: 65%;
+  width: 40%;
 }
 .search-area .search-field:focus {
   outline: none;
